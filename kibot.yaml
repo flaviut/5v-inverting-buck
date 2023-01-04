@@ -188,3 +188,14 @@ outputs:
   comment: Full design report
   type: report
   dir: Manufacturers
+- name: panel
+  type: panelize
+  comment: 5x5 Panel
+  dir: Manufacturers
+  options:
+    configs:
+      - layout: {rows: 4, cols: 5}
+        tabs: {type: "full"}
+        cuts:
+          type: "vcuts"
+          clearance: "0.13mm"

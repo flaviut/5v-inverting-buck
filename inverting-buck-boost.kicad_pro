@@ -55,12 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|115090000|91000000|7c2d00d5-df63-4cf3-b825-f2217c6d5ac9|9b7167f6-08d5-4208-88ce-10b24686993b",
-        "silk_over_copper|117690000|91000000|7c2d00d5-df63-4cf3-b825-f2217c6d5ac9|715d26f7-b7d7-4bfe-8416-8d512eabc7e1",
-        "silk_over_copper|120230000|91000000|7c2d00d5-df63-4cf3-b825-f2217c6d5ac9|1a211cbd-9ea9-48d4-b62c-3d6f882a0bf9",
-        "silk_over_copper|122830000|91000000|7c2d00d5-df63-4cf3-b825-f2217c6d5ac9|e0c55bd4-d0b0-4f46-91a8-3a1448092abe"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
