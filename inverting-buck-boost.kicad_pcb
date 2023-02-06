@@ -250,7 +250,7 @@
       (net 5 "-5V") (pinfunction "GND") (pintype "power_in") (zone_connect 2) (tstamp caed4cc3-e45f-4b69-a8e9-a4b51f0c3fa0))
     (pad "9" thru_hole circle (at 0.7 0) (size 0.5 0.5) (drill 0.3) (layers *.Cu)
       (net 5 "-5V") (pinfunction "GND") (pintype "power_in") (zone_connect 2) (tstamp d651f8a3-3936-45aa-981c-c1a62e04591f))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -348,9 +348,9 @@
       (net 1 "GND") (pintype "passive") (tstamp 484bceea-c51d-4fbd-aaa5-f7766f9e20a7))
     (pad "2" smd rect (at 1.8 0 90) (size 1.5 4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 7 "/SW") (pintype "passive") (tstamp 5e5ae695-e8ae-403e-86b9-c2a27c0fb80b))
-    (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Taiyo-Yuden_NR-50xx.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRN6045TA.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (scale (xyz 0.83 0.83 0.83))
       (rotate (xyz 0 0 0))
     )
   )
