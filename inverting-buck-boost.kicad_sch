@@ -568,7 +568,6 @@
     )
   )
 
-
   (junction (at 77.47 107.95) (diameter 0) (color 0 0 0 0)
     (uuid 0f54ea58-a71a-46a2-87e3-490d8e64baa1)
   )
@@ -1032,7 +1031,7 @@
     (property "Reference" "R1" (id 0) (at 84.0486 104.5753 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "200k" (id 1) (at 84.0486 107.1122 0)
+    (property "Value" "220k" (id 1) (at 84.0486 107.1122 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 82.55 105.41 0)
@@ -1318,7 +1317,7 @@
       (reference "L1") (unit 1) (value "47u") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-50xx")
     )
     (path "/9c200019-4df0-4868-9eef-757280e2462d"
-      (reference "R1") (unit 1) (value "200k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R1") (unit 1) (value "220k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8d3fb801-0f8a-4620-9c91-ad53cf054b8d"
       (reference "R2") (unit 1) (value "47k") (footprint "Resistor_SMD:R_0603_1608Metric")
