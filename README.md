@@ -16,8 +16,8 @@ There's a massive amount of 7kHz ripple, up to 500mV before stopping testing at 
 
 This seems to be related to very poor regulator stability. Placing 33pF in C5 improves ripple to 30mV between 0-220mA out, but the ripple is back to 500mV at 230mA.
 
-|Cff|Imax|
-|===|===|
+|Cff |Imax |
+|----|-----|
 |32pF|225mA|
 |54pF|285mA|
 
